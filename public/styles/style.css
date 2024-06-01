@@ -1,0 +1,26 @@
+.blog-title {
+    margin-top: 20px;
+  }
+  .post {
+    margin-bottom: 30px;
+  }
+  .post img {
+    max-width: 100%;
+    height: auto;
+  }
+  .sidebar {
+    padding: 20px;
+    background-color: #f8f9fa;
+  }
+  .footer {
+    background-color: #343a40;
+    color: #ffffff;
+    padding: 10px 0;
+    text-align: center;
+    margin-top: 30px;
+  }
+
+  .cusText {
+    width: 300px;
+    height: 500px;
+  }
